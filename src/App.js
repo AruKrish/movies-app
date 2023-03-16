@@ -1,8 +1,6 @@
 import { Redirect, Route, Switch } from "react-router-dom";
 import React, { Component } from "react";
 import MovieDev from "./Components/MovieDev";
-import Customers from "./Components/Customers";
-import Rentals from "./Components/Rentals";
 import NotFound from "./Components/NotFound";
 import NavBar from "./Components/NavBar";
 import MovieForm from "./Components/MovieForm";
